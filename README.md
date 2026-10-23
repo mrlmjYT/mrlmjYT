@@ -1,20 +1,46 @@
-# Profile: Lukas Brunner
+# Hi, I'm Lukas Brunner 👋
 
-I am currently a third-year student at the HTL Leonding specializing in IT and Media Technology. My focus lies at the intersection of robust software development and clean UI/UX design.
-
----
-
-### Technical Stack and Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend and Design** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Figma](https://shields.io) |
-| **Backend and Logic** | ![Java](https://shields.io) |
-| **Tools and Systems** | ![Git](https://shields.io) ![VS Code](https://shields.io) |
+I'm a third-year student at **HTL Leonding**, specializing in **IT and Media Technology**. I'm passionate about software development, modern web technologies, and clean UI/UX design.
 
 ---
 
-### Current Focus and Education
-- Deepening my understanding of object-oriented programming (Java) and modern web architectures.
-- Combining media technology insights with functional code to build intuitive user interfaces.
+### Frontend & Design
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+</p>
+
+### Backend & Programming
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+</p>
+
+### Tools & Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code" />
+</p>
+
+---
+
+### Current Focus
+
+- Improving my skills in responsive web design and UI/UX.
+- Building maintainable software with clean, readable code.
+- Combining media technology and programming to create engaging user experiences.
+
+---
+
+### Education
+
+**HTL Leonding**  
+IT and Media Technology · Third Year
+
+---
+
+*Always learning, building, and improving.*
